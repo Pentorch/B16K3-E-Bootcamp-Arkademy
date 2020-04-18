@@ -62,18 +62,17 @@ cara menjalankan soal 6c:
 **Demo Aplikasi**
 
 Tampilan utama:
-![pictures](soal-6/capture/6c-1.PNG)
+![pictures](soal-6/capture/6c-1.png)
 <br/>
 <br/>
 Tampilan ketika button **ADD** ditekan:
-![pictures](soal-6/capture/6c-2.PNG)
+![pictures](soal-6/capture/6c-3.png)
 <br/>
 <br/>
 Tampilan ketika button **Edit** ditekan:
-![pictures](soal-6/capture/6c-3.PNG)
+![pictures](soal-6/capture/6c-2.png)
 <br/>
 <br/>
 Tampilan ketika button **Delete** ditekan:
-![pictures](soal-6/capture/6c-4.PNG)
+![pictures](soal-6/capture/6c-4.png)
 <br/>
-
